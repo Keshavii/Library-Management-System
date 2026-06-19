@@ -74,8 +74,8 @@ A relational database project built using **PostgreSQL** to simulate real-world 
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd library-management-system-DBMS
+   git clone https://github.com/Keshavii/Library-Management-System.git
+   cd Library-Management-System
 2. Open pgAdmin or psql CLI.
 3.Run the SQL files in order:
     - 01_ddl_tables.sql
