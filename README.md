@@ -117,10 +117,3 @@ A relational database project built using **PostgreSQL** to simulate real-world 
 - 🔄 **Backup & Recovery:** Implement automated backup procedures and recovery scripts for production use.
 - ⏱️ **Real-Time Notifications:** Email or SMS reminders for return due dates and subscription expiries.
 
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.  
-Feel free to use, modify, and distribute with proper attribution.
-
